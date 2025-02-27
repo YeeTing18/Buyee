@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266842747455",
+    "project_id": "product-deb7d",
+    "storage_bucket": "product-deb7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266842747455:android:faa5077e2f49d43ddebe8a",
+        "android_client_info": {
+          "package_name": "com.example.buyee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc1MCawW1ED2-uDGX_bhefZaWg8hYJvhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
